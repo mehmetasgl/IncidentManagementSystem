@@ -1,0 +1,13 @@
+==========================
+incident_management.model.Incident ID: 67907648
+incident_management.model.User: oyku
+Title: merhaba
+Start Date: 2025-05-12
+End Date: 2025-06-12
+Description: merhaba
+Status: Delayed
+Priority: Urgent
+Attached Documents:
+- incident_documents/67907648_oyku_incident.txt
+==========================
+
