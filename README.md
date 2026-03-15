@@ -1,5 +1,6 @@
 # SE322-Section1-3
-Incident Management System
+
+Java Incident Management System with automated tests for validating incident creation, tracking, and management operations.
 
 # System Requirements Document
 
